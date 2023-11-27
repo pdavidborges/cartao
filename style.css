@@ -8,7 +8,7 @@
 
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #222831;  
+    background-color: #000000;  
 }
 
 div{
@@ -19,7 +19,7 @@ div{
     /*margin auto nas laterais faz com que a div seja centralizada*/
     margin-left: auto;
     margin-right: auto;
-    margin-top: 80px;
+    margin-top: 50px;
 
     /*Espaçamento interno*/
     padding: 30px;
